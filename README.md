@@ -1,6 +1,5 @@
 # About me
 
-**Muhammed-R-S/Muhammed-R-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on embedded systems projects and web development, focusing on automotive telemetry, smart vehicle technologies, connected systems and user friendly interfaces. I’m also exploring AI-based applications in image processing and automation, such as blood vessel segmentation in retinal images and API integration.
 - 🌱 I’m currently learning advanced signal processing techniques and exploring machine learning integration for automotive and health tech applications.
